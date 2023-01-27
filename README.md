@@ -2,6 +2,12 @@
 
 ## 使用
 
+建议使用虚拟环境运行
+
+`pip install virtualenv`
+
+`virtualenv -p python3.9 .venv`
+
 在当前根目录执行以下指令
 
 ``.venv\Scripts\activate``
